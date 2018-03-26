@@ -1,1 +1,1 @@
-<img="NYA!.jpg">
+<img="NYA!.jpg"/>
