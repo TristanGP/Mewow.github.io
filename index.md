@@ -1,4 +1,2 @@
-<img src="makeItRain.gif"/>
+<ing src="pichuz.jpg">
 <img src="potato-cat.jpg"/>
-<img src="srslyBro.gif"/>
-<img src="theSatisfaction.gif"/>
